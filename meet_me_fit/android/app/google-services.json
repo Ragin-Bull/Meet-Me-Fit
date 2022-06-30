@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "838675004346",
+    "project_id": "meet-me-fit",
+    "storage_bucket": "meet-me-fit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838675004346:android:11df50c2bb42fe51303b83",
+        "android_client_info": {
+          "package_name": "com.example.meet_me_fit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838675004346-g7jep3p4unocrm3msr2up6kgu5fmm2t2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwc-tgv6VJP6opGxVamKlc9ke2rpNNzMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838675004346-g7jep3p4unocrm3msr2up6kgu5fmm2t2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
